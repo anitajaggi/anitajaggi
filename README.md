@@ -1,33 +1,60 @@
-# 👋 Hi, I'm Anita Jaggi
+# 💫 About Me:
+Hi there! I'm Anita Jaggi 👋  
+🚀 MERN Stack Developer
 
-### 💻 MERN Stack Developer | UI/UX Enthusiast | Lifelong Learner
+About Me  
+I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer with a strong interest in building dynamic and scalable web applications.
 
----
+🔹 Skills & Technologies:  
+Frontend: React.js, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap  
+Backend: Node.js, Express.js, PHP  
+Databases: MongoDB, MySQL  
 
-🌱 **Currently Learning:**  
-TypeScript, Next.js, and modern backend architecture.
-
-🚀 **Projects I'm Proud Of:**
-- [NoonPost](https://github.com/anitajaggi/noonpost) – A PHP blog platform with admin features.
-- [MyPortfolio](https://github.com/anitajaggi/portfolio) – My responsive portfolio using HTML, CSS & Bootstrap.
-
-🔧 **Tech Toolbox:**  
-React, Node.js, Express.js, MongoDB, MySQL, PHP, Bootstrap, Tailwind CSS
-
-📫 **Reach me at:**  
-- LinkedIn: [Anita Jaggi](https://linkedin.com/in/anita-jaggi-20-uk04)  
-- Instagram: [@skylar20_25](https://instagram.com/@skylar20_25)  
-- X (Twitter): [@jaggiAnitaUk04](https://x.com/jaggiAnitaUk04)
+📌 What I’m Working On:  
+- 🚀 Building full-stack applications using React, Node.js, and Express  
+- ✨ Improving UI/UX with Tailwind CSS and Bootstrap
 
 ---
 
-### 📈 GitHub Stats
-
-![Anita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anitajaggi&show_icons=true&theme=gruvbox)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anitajaggi&layout=compact&theme=gruvbox)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@skylar02025)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@skylar20_25)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@anita-jaggi-20-uk04)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaggiAnitaUk04)
 
 ---
 
-### ✨ Quote of the Day
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anitajaggi&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=anitajaggi&theme=default_repocard&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anitajaggi&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anitajaggi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anitajaggi&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=anitajaggi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
