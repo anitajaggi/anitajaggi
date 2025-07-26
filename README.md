@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Anita Jaggi</h1>
-<h3 align="center">🚀 MERN Stack Developer | Web Wizard | UI/UX Enthusiast</h3>
+<h3 align="center">🚀 Web Developer | MERN Stack Developer</h3>
 
 ---
 
@@ -8,7 +8,6 @@
 Hi there! I'm Anita Jaggi 👋  
 🚀 MERN Stack Developer
 
-### 👩‍💻 About Me
 I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer with a strong interest in building dynamic and scalable web applications.
 
 ### 🔹 Skills & Technologies
@@ -25,16 +24,16 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer w
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://facebook.com/@skylar02025" target="_blank">
+  <a href="https://www.facebook.com/anitajaggi.020" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/@skylar20_25" target="_blank">
+  <a href="https://www.instagram.com/anitajaggi.020/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/@anita-jaggi-20-uk04" target="_blank">
+  <a href="https://www.linkedin.com/in/anitajaggi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/jaggiAnitaUk04" target="_blank">
+  <a href="https://x.com/anitajaggi020" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>
 </p>
@@ -83,12 +82,3 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer w
   <img src="https://github-contributor-stats.vercel.app/api?username=anitajaggi&limit=5&theme=default_repocard&combine_all_yearly_contributions=true" />
 </p>
 
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=anitajaggi&icon=0&color=0" alt="Visitor Count"/>
-  </a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
