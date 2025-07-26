@@ -17,7 +17,7 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer w
 
 ### 📌 What I’m Working On
 - 🚀 Building full-stack applications using React, Node.js, and Express  
-- ✨ Improving UI/UX with Tailwind CSS and Bootstrap
+- ✨ Improving UI/UX with CSS, Tailwind CSS and Bootstrap
 
 ---
 
