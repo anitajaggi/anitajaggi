@@ -5,9 +5,6 @@
 
 ## 💫 About Me:
 
-Hi there! I'm Anita Jaggi 👋  
-🚀 MERN Stack Developer
-
 I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer with a strong interest in building dynamic and scalable web applications.
 
 ### 🔹 Skills & Technologies
