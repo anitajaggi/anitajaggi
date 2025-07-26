@@ -55,27 +55,3 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer w
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anitajaggi&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true" alt="Anita's GitHub Stats" /><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anitajaggi&theme=default_repocard&hide_border=false" alt="Anita's GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitajaggi&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anitajaggi&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
-
-## 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anitajaggi&limit=5&theme=default_repocard&combine_all_yearly_contributions=true" />
-</p>
-
